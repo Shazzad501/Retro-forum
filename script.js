@@ -176,7 +176,6 @@ const displayLeatestPosts = (leatestposts)=>{
 // leatest post fetch function 
 loadLeatestPost()
 
-
 // loadAllpost function caller
 loadAllPosts();
 
